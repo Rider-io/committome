@@ -4,15 +4,3 @@ Using VSCode, NodeJS.
 
 Node Downloaded. NPM installed.
 
-```JS```
-
-JS File:
-const express = require('express');
-
-app.get('/', (req, res) => {
-  res.send('Hello, World!');
-});
-
-app.listen(3000, () => {
-  console.log('Server is listening on port 3000');
-});
