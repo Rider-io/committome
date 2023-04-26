@@ -4,7 +4,7 @@ Using VSCode, NodeJS.
 
 Node Downloaded. NPM installed.
 
-''JS''
+'''JavaScript 
 
 JS File:
 const express = require('express');
