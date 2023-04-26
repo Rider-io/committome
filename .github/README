@@ -1,5 +1,13 @@
 Building a website from JS.
 
-Using VSCode, JS (obvsiously) and probabably some other bits.
+Using VSCode, NodeJS.
+
+Node Downloaded. NPM installed.
+
+''JS''
+
+JS File:
+const express = require('express');
+
 
 
